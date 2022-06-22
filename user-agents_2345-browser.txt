@@ -1,0 +1,12 @@
+Mozilla/5.0 (Linux; Android 7.0; TRT-TL10A Build/HUAWEITRT-TL10A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36 Mb2345Browser/9.4.1
+Mozilla/5.0 (Linux; Android 5.1; CUN-AL00 Build/HUAWEICUN-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Mobile Safari/537.36 Mb2345Browser/9.4beta2
+Mozilla/5.0 (Linux; Android 5.1; CUN-AL00 Build/HUAWEICUN-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Mobile Safari/537.36 Mb2345Browser/9.3beta
+Mozilla/5.0 (Linux; Android 8.1.0; BKK-AL10 Build/HONORBKK-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 Mb2345Browser/10.3oem
+Mozilla/5.0 (Linux; Android 8.1.0; DUB-AL20 Build/HUAWEIDUB-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 Mb2345Browser/9.1oem
+Mozilla/5.0 (Linux; Android 6.0.1; KIW-TL00 Build/HONORKIW-TL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36 Mb2345Browser/14.1.0
+Mozilla/5.0 (Linux; Android 8.1.0; Lenovo L78011 Build/OPM1.171019.019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 Mb2345Browser/14.2.1
+Mozilla/5.0 (Linux; Android 4.4.4; V183 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36 Mb2345Browser/8.4oem
+Mozilla/5.0 (Linux; Android 10; Redmi 7A Build/QKQ1.191014.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36 Mb2345Browser/12.5.2oem
+Mozilla/5.0 (Linux; Android 9; Redmi 6 Pro Build/PKQ1.180917.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36 Mb2345Browser/13.1.0oem
+Mozilla/5.0 (Linux; Android 9; PAR-AL00 Build/HUAWEIPAR-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36 Mb2345Browser/15.1.1
+Mozilla/5.0 (Linux; Android 10; Redmi 7 Build/QKQ1.191008.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36 Mb2345Browser/10.3oem
